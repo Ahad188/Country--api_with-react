@@ -1,0 +1,8 @@
+.country{
+     border: 2px solid green;
+     border-radius: 20px;
+     padding: 30px;
+     margin: 30px;
+     background-color: rgb(190, 240, 241);
+     box-shadow: 4px 8px 5px 0.9px gray;
+}
